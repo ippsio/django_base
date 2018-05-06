@@ -1,0 +1,8 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+Django
+djangorestframework
+django-filter
+mysqlclient
+PyMySQL
+pytz
+# END ANSIBLE MANAGED BLOCK
